@@ -1,6 +1,6 @@
-# Maple -- A Lox Truffle Bytecode Interpreter
+# Tlox -- A Lox Truffle Bytecode Interpreter
 
-Maple is a bytecode interpreter for the Lox programming language. It is implemented using the Truffle framework, which is a self-optimizing runtime for programming languages.
+Tlox is a bytecode interpreter for the Lox programming language. It is implemented using the Truffle framework, which is a self-optimizing runtime for programming languages.
 This implementation is developed as part of the Build Your Own Programming Language course at Software Architecture Group, Hasso Plattner Institute, Potsdam.
 
 ## Getting Started
